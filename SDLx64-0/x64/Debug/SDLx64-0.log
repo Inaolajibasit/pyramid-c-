@@ -1,0 +1,12 @@
+﻿  mainCube.cpp
+C:\GLP\SDLx64-2\mainCube.cpp(24,54): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+C:\GLP\SDLx64-2\mainCube.cpp(24,54): warning C4309: 'argument': truncation of constant value
+C:\GLP\SDLx64-2\mainCube.cpp(24,46): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+C:\GLP\SDLx64-2\mainCube.cpp(24,46): warning C4309: 'argument': truncation of constant value
+C:\GLP\SDLx64-2\mainCube.cpp(24,38): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+C:\GLP\SDLx64-2\mainCube.cpp(24,38): warning C4309: 'argument': truncation of constant value
+C:\GLP\SDLx64-2\mainCube.cpp(30,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\SDLx64-2\mainCube.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\SDLx64-2\mainCube.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\SDLx64-2\mainCube.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SDLx64-0.vcxproj -> C:\GLP\SDLx64-2\x64\Debug\SDLx64-0.exe
